@@ -1,6 +1,6 @@
 {
-  "account_sid": "ACCOUNT_SID",
-  "auth_token": "AUTH_TOKEN",
-  "from": "YOUR TWILIO NUMBER",
-  "to": "THE NUMBER YOU WANT TO SEND SMS TO"
+  "account_sid": "8bff45c0f55c91c560bb4cc7466e6bcd",
+  "auth_token": "3701c2ef96b4244f6379c72bc083fa99",
+  "from": "+19285827725",
+  "to": "+16263539142"
 }
