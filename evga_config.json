@@ -4,7 +4,11 @@
   "credit_card" : {
             "name": "Alfonso Cortes",
             "number": "4815820139015471",
+<<<<<<< Updated upstream
             "cvv": "829",
+=======
+            "cvv": 829",
+>>>>>>> Stashed changes
             "expiration_month": "03",
             "expiration_year": "2023"
         }
